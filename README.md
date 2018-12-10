@@ -1,5 +1,7 @@
 # Best_sell_crawler
 crawling architecture and a query interface that gets the best selling products from yahoo store.
+
+
 Crawlng the good sales in https://tw.buy.yahoo.com.
 <img  src="https://raw.githubusercontent.com/EddieYY/Best_sell_crawler/master/img/yahoo_gdsale.png">
 
