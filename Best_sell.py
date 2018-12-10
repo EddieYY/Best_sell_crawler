@@ -10,7 +10,7 @@ cwd = os.getcwd()
 url = "https://tw.buy.yahoo.com/catalog/ajax/recmdHotNew"
 headers = {
     'cache-control': "no-cache",
-    'content-yype':"application/json;charset=utf-8"
+    'content-type':"application/json;charset=utf-8"
     }
 # set Proxy
 proxy_ips = ['120.27.113.72:8888', '121.8.98.201:9999', '222.92.141.250:80', '123.160.31.71:8080']
